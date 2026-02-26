@@ -16,3 +16,4 @@ public class q2 {
         print();
     }
 }
+
