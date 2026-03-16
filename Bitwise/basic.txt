@@ -1,0 +1,18 @@
+&& -> iske andar like
+1 & 1 hoga to hi 1 aega
+1 & 0 hoga to 0 aega
+0 & 1 hoga to 0 aega
+0 & 0 hoga to 0 aega 
+
+|| -> iske andar like
+0 tabhi aega jab dono zero hoge
+0 || 0 to 0 hi hoga
+0 || 1 hoga to 1 hi hoga
+1 || 0 hoga to 1 hi hoga
+1 || 1 hoga to 1 hi hoga
+
+^(ye xor hai ) iske andar agar same bits hai to answer 0 nahi toh answer 1;
+1 ^ 1 = 0;
+0 ^ 0 = 0;
+1 ^ 0 = 1;
+0 ^ 1 = 1;
